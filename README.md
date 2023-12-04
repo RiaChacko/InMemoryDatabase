@@ -9,8 +9,8 @@
   - Open Terminal if your on a Mac or any command-line
   - cd into the project folder
   - cd into the src folder
-  - run the command ___javac *___ in order to compile all the files
-  - run the command ***java main.java*** to run the file
+  - run the command  ---------  ___javac *___ ---------- in order to compile all the files
+  - run the command  --------- ***java main.java*** ----------  to run the file
   - you should see the list of outputs for each of the commands provided in the assignment instructions
     
 ## Future Assignment Recommendations:
